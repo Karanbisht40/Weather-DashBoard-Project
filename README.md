@@ -1,0 +1,2 @@
+Weather App
+A simple and responsive weather application that allows users to check the current weather for any city. Users can enter a city name and get real-time data including temperature, minimum and maximum temperature, humidity, and a brief description of the weather. Built with a clean and user-friendly interface, this project demonstrates skills in API integration, front-end design, and dynamic data handling.
