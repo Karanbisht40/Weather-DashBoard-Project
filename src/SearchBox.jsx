@@ -4,6 +4,8 @@ import "./Search.css";
 import { useState } from 'react'
 import js from '@eslint/js';
 
+
+//search box
 export default function SearchBox({ updateInfo }) {
     let [city, setCity] = useState("");
     let[error,setError]= useState(false);
