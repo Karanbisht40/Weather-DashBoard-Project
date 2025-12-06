@@ -2,7 +2,7 @@ import { useState } from "react";
 import InfoBox from "./InfoBox";
 import SearchBox from "./SearchBox";
 
-
+//weather app
 export default function WeatherApp(){
    const[weatherInfo, setWeatherInfo]=useState({
        city: "Mumbai ",
