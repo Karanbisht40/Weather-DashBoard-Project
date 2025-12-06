@@ -15,6 +15,8 @@ import AcUnitIcon from '@mui/icons-material/AcUnit';
 import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import './InfoBox.css';
 
+
+//main. content 
 export default function InfoBox({ info }) {
 
     const INIt_URL =
